@@ -1,1 +1,5 @@
 Pierwszy wpis
+
+///
+
+drugi wpis
