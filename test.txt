@@ -3,3 +3,7 @@ Pierwszy wpis
 ///
 
 drugi wpis
+
+//
+
+trzeci wpis
